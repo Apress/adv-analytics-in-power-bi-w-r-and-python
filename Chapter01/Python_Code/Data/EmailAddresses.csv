@@ -1,0 +1,406 @@
+﻿ID,Gender,First Name,Last Name,Email,DOB,Race,Address,City,State,Zip,Income,Party Affiliation,Education Attainment
+1,F,Jennifer,Smith,jsmith@me.com,6/12/1967,White,340 Stadium Dr,Brownsburg,IN,46112,313500,Independent,High School
+2,M,Joshua,Johnson,jjohnson@yahoo.com,5/7/1972,Black,1111 St Joseph St,Shelbyville,IN,46176,244966,Democrat,College
+3,F,Jessica,Williams,jwilliams@tmobile.net,11/2/1975,White,1375 W Lincoln St,Danville,IN,46122,260343,Republican,College
+4,M,Christopher,Jones,cjones@live.com,7/21/1965,White,900 Sawmill Rd,New Whiteland,IN,46184,270644,Republican,College
+5,F,Sarah,Brown,sbrown@att,4/9/1970,White,8425 E Raymond,Indianapolis,IN,46239,277058,Democrat,College
+6,M,David,Davis,ddavisyahoo.com,9/4/1970,White,2301 N Park Ave,Indianapolis,IN,46205,172425,Democrat,High School
+7,M,James,Miller,jmiller@sbcglobal.net,3/22/1972,Black,99 Crestview Dr,Greenwood,IN,46143,159812,Republican,High School
+8,F,Angela,Wilson,awilson@verizon.net,9/25/1967,Two or more races,13535 Cumberland Rd,Fishers,IN,46038,72584,Democrat,College
+9,M,John,Moore,jmoore@yahoo.com,2/7/1966,Black,7001 Zionsville Rd,Indianapolis,IN,46268,149775,Democrat,High School
+10,F,Stephanie,Taylor,staylor@optonline.net,1/10/1968,Black,4640 Santa Fe Dr,Indianapolis,IN,46241,131225,Democrat,College
+11,M,Robert,Anderson,randerson@msn.com,1/7/1974,Other race,4242 E 126th St,Carmel,IN,46033,135236,Democrat,High School
+12,M,Jeremy,Thomas,jthomas@me.com,3/5/1973,White,24795 Hinesley Rd,Sheridan,IN,46069,147717,Independent,College
+13,F,Elizabeth,Jackson,ejackson@sbcglobal.net,8/14/1969,White,25150 SR 19 - PO Box 400,Arcadia,IN,46030,141100,Democrat,High School
+14,F,Kimberly,White,kwhite@gmail.com,10/16/1976,White,1301 E 16th St,Indianapolis,IN,46202,136563,Democrat,College
+15,F,Rachel,Harris,rharris@yahoo.com,2/5/1972,Black,200 W Park Ave,Greenfield,IN,46140,137063,Republican,College
+16,M,Andrew,Martin,amartin@msn,6/10/1968,White,5199 W Fairview Rd,Greenwood,IN,46142,141435,Democrat,College
+17,M,Nicholas,Thompson,nthompson@yahoo.com,9/12/1965,Other race,901 Loper Dr,Shelbyville,IN,46176,140282,Republican,High School
+18,M,Daniel,Garcia,dgarcia@msn.com,4/2/1970,Black,3280 W Fairview Rd,Greenwood,IN,46142,135186,Democrat,High School
+19,M,Eric,Martinez,emartinez@optonline.net,9/2/1971,Black,1001 E Palmer St,Indianapolis,IN,46203,136673,Republican,High School
+20,F,Crystal,Robinson,crobinson@verizon.net,8/3/1971,White,1400 Webb Ct,Franklin,IN,46131,144757,Democrat,College
+21,M,Timothy,Clark,tclark@me.com,8/13/1969,Black,4900 E 79th St,Indianapolis,IN,46240,126244,Democrat,High School
+22,F,Lisa,Rodriguez,lrodriguez@yahoo.com,11/25/1973,White,1000 E 91st St,Indianapolis,IN,46240,144732,Democrat,College
+23,F,Laura,Lewis,llewis@sbcglobal.net,11/13/1970,White,17950 Grassy Branch Rd,Westfield,IN,46074,130232,Republican,College
+24,M,Chad,Lee,clee@verizon.net,10/20/1966,White,12451 Brooks School Rd,Fishers,IN,46037,142164,Independent,High School
+25,F,Rebecca,Walker,rwalker@gmail.com,11/25/1965,White,10502 E 21st St,Indianapolis,IN,46229,116787,Republican,High School
+26,M,Benjamin,Hall,bhall@sbcglobal.net,4/25/1968,White,3070 E 300 N,Anderson,IN,46012,99866,Democrat,High School
+27,M,Anthony,Allen,aallen@msn,7/9/1971,White,600 W North St,Greenfield,IN,46140,67845,Democrat,High School
+28,M,Jeffrey,Young,jyoung@me,11/26/1975,White,1229 E Ohio St,Indianapolis,IN,46202,69776,Republican,College
+29,F,Emily,Hernandez,ehernandez@tmobile.net,3/22/1969,Black,1888 E US Hwy 40,Greencastle,IN,46135,75008,Democrat,High School
+30,M,Nathan,King,nking@yahoo.com,8/12/1969,White,800 N Central,Alexandria,IN,46001,81091,Democrat,College
+31,M,Kevin,Wright,kwright@att.net,12/10/1972,White,2010 Brentwood Dr,Anderson,IN,46011,72303,Democrat,High School
+32,F,Julie,Lopez,jlopez@msn.com,8/20/1975,White,7250 E 75th St,Indianapolis,IN,46256,103587,Democrat,High School
+33,M,Travis,Hill,thill@verizon.net,12/15/1968,Black,11259 N 300 W,Alexandria,IN,46001,114859,Independent,High School
+34,F,Brooke,Scott,bscott@gmail.com,11/16/1965,White,8301 W 86th St,Indianapolis,IN,46278,103550,Independent,College
+35,F,Carrie,Green,cgreen@me.com,5/25/1970,White,5225 Gray Rd,Indianapolis,IN,46227,85023,Republican,High School
+36,F,Erica,Adams,eadams@sbcglobal.net,6/15/1974,Black,8735 Indian Creek Rd,Indianapolis,IN,46259,95412,Democrat,High School
+37,M,Dustin,Baker,dbaker@verizon.net,12/4/1975,White,1399 Upper Shelbyville Rd,Franklin,IN,46131,106620,Republican,High School
+38,M,Richard,Gonzalez,rgonzalez@att,12/21/1973,White,4700 S 975 E,Zionsville,IN,46077,113597,Independent,College
+39,F,Ashley,Nelson,anelson@sbcglobal,8/19/1969,Black,338 S Arlington Ave,Indianapolis,IN,46219,113010,Republican,College
+40,M,Kyle,Carter,kcarter@gmail.com,1/22/1965,Other race,7525 Wellingshire Blvd,Indianapolis,IN,46217,80880,Independent,College
+41,F,Jill,Mitchell,jmitchell@verizon.net,1/11/1970,Black,7866 E CR 100 S,Avon,IN,46123,95468,Independent,College
+42,M,Jacob,Perez,jperez@sbcglobal.net,4/23/1965,Two or more races,700 Sawmill Rd,New Whiteland,IN,46184,94468,Independent,College
+43,M,Shawn,Roberts,sroberts@sbcglobal.net,8/16/1971,Black,5694 W 300 N,Greenfield,IN,46140,115915,Democrat,College
+44,M,Stephen,Turner,sturner@att.net,9/25/1976,White,PO Box 38,Waldron,IN,46182,93889,Democrat,College
+45,M,Gregory,Phillips,gphillips@verizon.net,2/4/1970,White,14135 Harrison Pky,Fishers,IN,46038,128533,Democrat,High School
+46,F,Brandi,Campbell,bcampbell@optonline.net,12/7/1969,White,389 E Jackson St,Martinsville,IN,46151,125254,Democrat,High School
+47,M,Kenneth,Parker,kparker@yahoo.com,11/23/1966,Black,c/o 1111 W McKay Rd,Shelbyville,IN,46176,123176,Democrat,High School
+48,M,Patrick,Evans,pevans@me.com,11/9/1971,Black,4740 Iowa St,Clayton,IN,46118,127190,Republican,College
+49,F,Stacy,Edwards,sedwards@verizon.net,2/16/1969,White,209 W Liberty St,Greencastle,IN,46135,108301,Republican,High School
+50,F,Leslie,Collins,lcollins@verizon.net,8/26/1974,Black,7535 Harcourt Rd,Indianapolis,IN,46260,123937,Democrat,College
+51,F,Kristina,Stewart,kstewart@gmail.com,10/7/1975,Black,844 N Scatterfield Rd,Anderson,IN,46012,125930,Republican,High School
+52,F,Natalie,Sanchez,nsanchez@att.net,9/5/1965,White,965 Grizzly Cub Dr,Franklin,IN,46131,83124,Republican,High School
+53,M,Zachary,Morris,zmorris@me.com,2/16/1970,White,5800 W Smith Valley Rd,Greenwood,IN,46142,88376,Republican,College
+54,F,Lindsay,Rogers,lrogers@live.com,3/23/1970,White,2100 S ''P'' St,Elwood,IN,46036,87738,Democrat,High School
+55,F,Allison,Reed,areed@tmobile.net,8/19/1972,White,4045 S SR 135,Nashville,IN,47448,40057,Democrat,College
+56,M,Cory,Cook,ccook@tmobile.net,10/3/1968,White,1551 E Southview Dr,Indianapolis,IN,46227,44331,Republican,College
+57,F,Kathryn,Morgan,kmorgan@live.com,12/8/1969,White,515 E Williams St,Lebanon,IN,46052,40045,Independent,College
+58,F,Lori,Bell,lbell@sbcglobal.net,5/2/1976,White,3623 W Whiteland Rd,Bargersville,IN,46106,40565,Democrat,College
+59,F,Susan,Murphy,smurphy@optonline,4/4/1975,Other race,8185 N SR 9,Greenfield,IN,46140,47418,Republican,High School
+60,M,Ronald,Bailey,rbailey@yahoo.com,8/23/1975,Black,900 W 136th St,Carmel,IN,46032,43258,Democrat,High School
+61,M,Nathaniel,Rivera,nrivera@sbcglobal.net,8/6/1974,White,16504 Oak Ridge Rd,Westfield,IN,46074,82540,Democrat,College
+62,F,Stacey,Cooper,scooper@verizon.net,2/22/1970,Black,619 W Smith Valley,Greenwood,IN,46142,52144,Republican,College
+63,F,Melinda,Richardson,mrichardson@tmobile.net,5/16/1965,White,1401 N Mitthoeffer,Indianapolis,IN,46229,146018,Democrat,High School
+64,M,Todd,Cox,tcox@live.com,8/17/1968,White,10721 Lakeshore Dr W,Carmel,IN,46033,130577,Independent,High School
+65,M,Corey,Howard,choward@msn.com,8/8/1971,Black,2200 W 22nd St,Anderson,IN,46016,151182,Independent,College
+66,F,Lindsey,Ward,lward@sbcglobal.net,1/7/1968,Asian,8201 N Ditch Rd,Indianapolis,IN,46260,131182,Republican,College
+67,F,Wendy,Torres,wtorres@msn.com,1/18/1972,White,6620 Shelbyville Rd,Indianapolis,IN,46237,41512,Republican,College
+68,F,Kara,Peterson,kpeterson@sbcglobal.net,11/7/1972,White,200 W 49th St,Indianapolis,IN,46208,54855,Republican,High School
+69,F,Lauren,Gray,lgray@att.net,6/1/1969,Asian,225 S Shaw St,Plainfield,IN,46168,39.25,Republican,High School
+70,M,Larry,Ramirez,lramirez@tmobile.net,1/25/1976,White,17171 Ditch Rd,Westfield,IN,46074,38.29,Democrat,High School
+71,M,Shaun,James,sjames@sbcglobal.net,5/20/1972,White,1500 N Garfield St,Lebanon,IN,46052,25.09,Republican,College
+72,M,Troy,Watson,twatson@att.net,9/26/1974,White,7221 E US Hwy 36,Avon,IN,46123,29.04,Democrat,High School
+73,M,Dennis,Brooks,dbrooks@msn.com,9/14/1970,White,350 N 6th St,Zionsville,IN,46077,32.52,Republican,College
+74,M,Erik,Kelly,ekellyme.com,2/10/1973,White,12415 Shelborne Rd,Carmel,IN,46032,20.13,Democrat,High School
+75,F,Tina,Sanders,tsanders@tmobile.net,12/7/1967,White,10404 Orchard Park S Dr,Indianapolis,IN,46280,28.08,Republican,High School
+76,M,Edward,Price,eprice@att.net,3/22/1966,White,10595 Lantern Rd,Fishers,IN,46037,37.34,Republican,College
+77,M,Lucas,Bennett,lbennett@att.net,6/16/1968,White,630 Nichol Ave,Anderson,IN,46016,29.95,Republican,College
+78,F,Christy,Wood,cwood@yahoo.com,2/3/1974,White,500 Linwood Dr,Greencastle,IN,46135,26.54,Republican,College
+79,M,Jerry,Barnes,jbarnes@live.com,4/18/1966,Black,3525 Winding Way,Anderson,IN,46011,30.67,Republican,High School
+80,F,Tonya,Ross,tross@tmobile.net,1/12/1965,White,777 S White River Pkwy W Dr,Indianapolis,IN,46221,43.43,Independent,High School
+81,M,George,Henderson,ghenderson@gmail.com,12/19/1974,White,4150 Bazil Ave,Indianapolis,IN,46239,45.73,Republican,College
+82,F,Dana,Coleman,dcoleman@me.com,4/9/1973,White,7177 N 600 W,McCordsville,IN,46055,20.26,Democrat,High School
+83,F,Karen,Jenkins,kjenkins@live.com,8/20/1970,White,1800 N Franklin Rd,Indianapolis,IN,46219,36.31,Republican,High School
+84,F,Kristi,Perry,kperry@msn.com,5/20/1967,Black,1005 Hendricks Dr,Lebanon,IN,46052,40.11,Republican,College
+85,M,Curtis,Powell,cpowell@yahoo.com,2/22/1967,Black,60 E Cunningham St,Martinsville,IN,46151,44.25,Democrat,College
+86,M,Brett,Long,blong@optonline.net,5/16/1976,Black,PO Box 69,North Salem,IN,46165,36.26,Republican,High School
+87,M,Terry,Patterson,tpatterson@tmobile.net,5/2/1976,Other race,5814 S Arlington Ave,Indianapolis,IN,46237,45.68,Independent,High School
+88,F,Molly,Hughes,mhughes@att.net,3/16/1965,White,711 Central Ave,Greencastle,IN,46135,37.12,Democrat,College
+89,F,Alison,Flores,aflores@tmobile.net,12/19/1974,Black,119 W 29th St,Anderson,IN,46016,46.6,Republican,College
+90,M,Philip,Washington,pwashington@me.com,3/20/1972,Black,1350 Greenfield Pike,Noblesville,IN,46060,22.06,Independent,High School
+91,F,Kathleen,Butler,kbutler@tmobile.net,6/12/1967,White,440 N 10th St,Noblesville,IN,46060,41.4,Republican,College
+92,M,Jon,Simmons,jsimmons@msn.com,3/4/1975,Black,5401 N High School Rd,Indianapolis,IN,46254,45.21,Democrat,College
+93,F,Mandy,Foster,mfoster@live.com,11/15/1970,White,111 Eastern Ave,Brownsburg,IN,46112,22.59,Republican,High School
+94,M,Ricky,Gonzales,rgonzales@sbcglobal.net,9/18/1968,White,1359 E Columbus St,Martinsville,IN,46151,44.02,Republican,High School
+95,F,Erika,Bryant,ebryant@att.net,10/16/1971,White,820 N Broadway,Greenfield,IN,46140,46.92,Democrat,College
+96,M,Jonathon,Alexander,jalexander@sbcglobal.net,3/18/1967,Black,1400 S Odell St,Brownsburg,IN,46112,21.75,Republican,College
+97,F,Margaret,Russell,mrussell@me.com,9/1/1966,White,6075 High St,Martinsville,IN,46151,36.91,Democrat,College
+98,M,Ian,Griffin,igriffin@optonline.net,1/22/1976,White,757 Stafford Rd,Plainfield,IN,46168,22.56,Republican,College
+99,F,Maria,Diaz,mdiaz@msn.com,6/20/1976,Black,3680 S Hornaday Rd,Brownsburg,IN,46112,37.85,Republican,College
+100,F,Mindy,Hayes,mhayes@att.net,3/24/1976,White,14975 Promise Rd,Noblesville,IN,46060,31.54,Republican,College
+101,M,Carl,Myers,cmyers@sbcglobal.net,9/21/1966,White,7237 E US Hwy 36,Avon,IN,46123,30.46,Republican,College
+102,F,Pamela,Ford,pford@gmail.com,4/13/1971,White,4500 Main St,Anderson,IN,46013,30.48,Democrat,College
+103,F,Vanessa,Hamilton,vhamilton@tmobile,2/11/1970,White,470 Lakeview Dr,Noblesville,IN,46060,24.34,Republican,College
+104,M,Casey,Graham,cgraham@yahoo.com,10/16/1972,White,1700 Conner Street,Noblesville,IN,46060,32.16,Democrat,College
+105,M,Russell,Sullivan,rsullivan@me.com,1/12/1967,White,4640 Santa Fe Dr,Indianapolis,IN,46241,36.75,Independent,College
+106,F,Casey,Wallace,cwallace@att.net,2/4/1975,White,3990 W Division Rd,Bargersville,IN,46106,28.02,Republican,College
+107,M,Kristopher,Woods,kwoods@tmobile,12/26/1975,Black,4976 W 600 N,Fairland,IN,46126,46.4,Democrat,High School
+108,F,Valerie,Cole,vcolesbcglobal.net,11/14/1975,White,11300 E 121st St,Fishers,IN,46037,27.54,Democrat,High School
+109,M,Gabriel,West,gwest@att.net,8/11/1967,White,1915 E 86th St,Indianapolis,IN,46240,25.75,Republican,College
+110,M,Bobby,Jordan,bjordan@att.net,12/6/1971,White,6275 Maple Grove Rd,Martinsville,IN,46151,31.64,Democrat,High School
+111,F,Angel,Owens,aowens@sbcglobal.net,11/19/1973,Black,140 Polk St,Greenfield,IN,46140,29.84,Republican,High School
+112,F,Michele,Reynolds,mreynolds@verizon.net,9/1/1967,Black,8414 N 200 W,Fortville,IN,46040,30.5,Democrat,High School
+113,F,Shawna,Fisher,sfishergmail.com,4/26/1971,Black,261 E Anniston Dr,Indianapolis,IN,46227,31.77,Republican,High School
+114,M,Adrian,Ellis,aellis@att.net,9/10/1971,Black,7300 E 56th St,Indianapolis,IN,46226,36.47,Independent,High School
+115,F,Autumn,Harrison,aharrison@sbcglobal.net,4/21/1975,White,2100 S ''P'' St,Elwood,IN,46036,31.42,Democrat,High School
+116,F,Rachael,Gibson,rgibson@optonline.net,5/19/1967,White,8400 E 10th St,Indianapolis,IN,46219,34.85,Republican,High School
+117,M,Clint,Mcdonald,cmcdonald@msn,10/23/1975,Asian,110 Wabash St,Plainfield,IN,46168,37.2,Independent,College
+118,F,Trisha,Cruz,tcruz@yahoo.com,8/7/1966,White,555 Sycamore,Brownsburg,IN,46112,31.38,Independent,College
+119,F,Latoya,Marshall,lmarshall@me.com,3/24/1971,Black,139 E Poston Rd,Martinsville,IN,46151,39.33,Republican,High School
+120,M,Caleb,Ortiz,cortiz@tmobile.net,11/24/1972,White,2455 S Morgantown Rd,Greenwood,IN,46143,47,Republican,High School
+121,F,Jaime,Gomez,jgomez@optonline.net,1/5/1970,Black,500 E Mahalasville Rd,Martinsville,IN,46151,25.1,Republican,High School
+122,F,Robin,Murray,rmurrayatt.net,2/3/1973,White,395 S Chestnut St,Monrovia,IN,46157,36.06,Democrat,High School
+123,F,Sabrina,Freeman,sfreeman@att.net,4/19/1972,White,6070 N 900 E,Sheridan,IN,46069,35.33,Independent,College
+124,M,Willie,Wells,wwells@optonline.net,1/14/1969,Black,5670 Noble Crossing Pky,Noblesville,IN,46062,27.64,Democrat,College
+125,F,Rebekah,Webb,rwebb@optonline.net,10/20/1965,Black,3330 N Pennsylvania,Indianapolis,IN,46205,23.91,Independent,High School
+126,M,Danny,Simpson,dsimpson@optonline.net,6/8/1974,White,5241 Brehob Rd,Indianapolis,IN,46217,24.34,Republican,College
+127,F,Candice,Stevens,cstevens@me.com,11/4/1974,Black,1630 E Oliver St,Plainfield,IN,46168,24.57,Republican,High School
+128,M,Wayne,Tucker,wtucker@tmobile.net,9/16/1975,White,14051 E 104th St,Fishers,IN,46040,23.13,Independent,College
+129,M,Allen,Porter,aporter@att.net,10/15/1966,White,16231 Carey Rd,Westfield,IN,46074,37.87,Democrat,High School
+130,M,Bruce,Hunter,bhunter@verizon.net,2/16/1967,Black,1042 E 400 N,Anderson,IN,46012,46.38,Republican,College
+131,F,Gina,Hicks,ghicks@sbcglobal.net,7/10/1973,Black,907 S Avon Avenue,Avon,IN,46123,42.14,Republican,College
+132,F,Tabitha,Crawford,tcrawford@verizon.net,10/13/1975,White,10930 E 10th St,Indianapolis,IN,46229,25.45,Democrat,High School
+133,M,Levi,Henry,lhenry@yahoo.com,1/3/1968,White,701 W SR 144,Franklin,IN,46131,29.03,Democrat,High School
+134,M,Mitchell,Boyd,mboyd@gmail.com,12/17/1972,Two or more races,19000 Cumberland Rd,Noblesville,IN,46060,26.69,Democrat,High School
+135,F,Jami,Mason,jmason@me.com,10/13/1965,White,PO Box 419,Arcadia,IN,46030,37.56,Republican,College
+136,M,Barry,Morales,bmorales@tmobile.net,5/17/1967,Black,8239 Morgantown Rd,Indianapolis,IN,46217,28.31,Democrat,High School
+137,F,Tammy,Kennedy,tkennedy@verizon.net,5/19/1976,Black,12131 Olio Rd,Fishers,IN,46037,37.97,Republican,College
+138,M,Jordan,Warren,jwarren@me,11/7/1965,Black,251 N Church St,Brooklyn,IN,46111,23.86,Independent,College
+139,F,Bridget,Dixon,bdixon@me.com,12/14/1965,Other race,5764 E 700 N,Franklin,IN,46131,43.25,Democrat,College
+140,F,Kendra,Ramos,kramos@msn.com,3/13/1971,White,7341 E Stop 11 Rd,Indianapolis,IN,46259,24.03,Republican,College
+141,F,Stefanie,Reyes,sreyes@live.com,5/24/1970,Black,50 E Broadway,Greenwood,IN,46143,40.1,Republican,High School
+142,M,Darren,Burns,dburns@optonline.net,10/14/1965,White,1000 Deer Meadow Ln,Greencastle,IN,46135,44.14,Democrat,High School
+143,F,Tia,Gordon,tgordon@live.com,12/11/1972,White,5456 E CR 75 North,Avon,IN,46123,43.57,Independent,College
+144,M,Cameron,Shaw,cshaw@tmobile.net,12/6/1967,Black,2150 Hunter Rd,Indianapolis,IN,46239,34.12,Independent,High School
+145,F,Linda,Holmes,lholmes@me.com,6/16/1973,White,11420 E 131st St,Fishers,IN,46038,34.47,Independent,High School
+146,F,Cara,Rice,crice@gmail.com,3/3/1965,Black,3124 E 10th St,Anderson,IN,46012,23.86,Independent,College
+147,F,Abby,Robertson,arobertson@att.net,9/7/1974,White,4355 E Stop 11 Rd,Indianapolis,IN,46237,41.65,Republican,College
+148,M,Beau,Hunt,bhunt@optonline.net,11/24/1975,White,440 E 57th St,Indianapolis,IN,46220,26.07,Republican,College
+149,F,Latasha,Black,lblack@gmail.com,10/18/1974,Black,725 N New Jersey St,Indianapolis,IN,46202,40.21,Republican,College
+150,F,Tricia,Daniels,tdaniels@optonline.net,8/7/1974,Asian,3900 E 300 S,Lebanon,IN,46052,24.98,Republican,College
+151,M,Brock,Palmer,bpalmerme.com,9/9/1971,White,6250 Rodebaugh Rd,Indianapolis,IN,46268,25.73,Democrat,High School
+152,M,Grant,Mills,gmills@sbcglobal.net,3/15/1975,White,899 Honey Creek Rd,Greenwood,IN,46143,24.54,Democrat,High School
+153,M,Micheal,Nichols,mnichols@yahoo.com,5/22/1970,White,14642 E 126th St,Fishers,IN,46038,43.55,Republican,High School
+154,F,Meghan,Grant,mgrant@live.com,10/4/1971,White,8301 Rawles Ave,Indianapolis,IN,46219,35.38,Independent,High School
+155,F,Summer,Knight,sknight@yahoo.com,11/15/1971,White,11149 Stonybrook Dr,Indianapolis,IN,46229,21.23,Independent,High School
+156,F,Donna,Ferguson,dferguson@tmobile.net,1/12/1975,White,18000 Durbin Rd,Noblesville,IN,46060,37.74,Republican,College
+157,M,Shannon,Rose,srose@msn.com,5/24/1970,White,2815 English Ave,Indianapolis,IN,46201,34.13,Republican,High School
+158,F,Denise,Stone,dstone@gmail.com,10/1/1973,Black,6905 W 46th St,Indianapolis,IN,46254,41.05,Republican,High School
+159,F,Janelle,Hawkins,jhawkins@optonline.net,5/19/1975,Two or more races,2160 S 300 E,Anderson,IN,46017,29.7,Independent,College
+160,F,Nancy,Dunn,ndunn@verizon.net,5/10/1965,Black,13989 Hazel Dell Parkway,Carmel,IN,46033,27.57,Republican,High School
+161,F,Shelly,Perkins,sperkins@me.com,3/10/1965,Black,685 S Avon Avenue,Avon,IN,46123,36.85,Democrat,College
+162,M,Calvin,Hudson,chudson@verizon.net,6/17/1966,Black,2035 S Raible Ave,Anderson,IN,46011,29.39,Republican,High School
+163,M,Lance,Spencer,lspencer@live.com,10/23/1969,Black,4135 W Smith Valley Rd,Greenwood,IN,46142,29.09,Democrat,College
+164,F,Diana,Gardner,dgardner@tmobile.net,4/1/1976,Black,10850 Towne Rd,Carmel,IN,46032,40.8,Republican,High School
+165,M,Henry,Stephens,hstephens@sbcglobal.net,11/11/1976,White,398 Urban St,Danville,IN,46122,44.96,Republican,High School
+166,M,Jimmy,Payne,jpayne@msn.com,1/16/1974,White,14200 N River Rd,Carmel,IN,46033,27.61,Republican,College
+167,F,Brenda,Pierce,bpierce@optonline.net,7/5/1968,White,412 S Washington,Bainbridge,IN,46105,40.22,Republican,College
+168,F,Aimee,Berry,aberry@optonline.net,4/7/1971,White,10926 N 200 E,Alexandria,IN,46001,37.47,Republican,College
+169,F,Jillian,Matthews,jmatthews@sbcglobal.net,1/16/1974,Black,7625 New Augusta Rd,Indianapolis,IN,46268,43.63,Republican,High School
+170,F,Rhonda,Arnold,rarnold@msn.com,12/10/1967,White,2010 Brentwood Dr,Anderson,IN,46011,44.62,Republican,College
+171,F,Lesley,Wagner,lwagner@sbcglobal.net,6/13/1976,Black,810 E Main Cross St,Edinburgh,IN,46124,41.28,Democrat,High School
+172,M,Darrell,Willis,dwillis@msn.com,10/20/1972,White,8010 S Acton Rd,Acton,IN,46259,21.39,Republican,College
+173,M,Harold,Ray,hray@tmobile.net,4/17/1974,White,5950 E 23rd St,Indianapolis,IN,46218,43.19,Republican,College
+174,M,Johnathan,Watkins,jwatkinsatt.net,12/11/1976,White,3590 S Hornaday Rd,Brownsburg,IN,46112,24.7,Independent,High School
+175,F,Sandra,Olson,solson@gmail.com,7/15/1965,White,161 S Main St,Fillmore,IN,46128,38.44,Republican,High School
+176,M,Damien,Carroll,dcarroll@tmobile.net,11/3/1966,White,8660 E 131st St,Fishers,IN,46038,32.56,Democrat,High School
+177,M,Jermaine,Duncan,jduncan@msn.com,2/14/1971,White,811 W 60th St,Anderson,IN,46013,34.82,Democrat,College
+178,F,Hannah,Snyder,hsnyder@optonline.net,6/12/1970,White,802 E 5th St,Anderson,IN,46012,30.78,Democrat,High School
+179,M,Drew,Hart,dhart@gmail.com,2/13/1966,White,401 Elm Dr,Plainfield,IN,46168,24.06,Democrat,College
+180,F,Melody,Cunningham,mcunningham@yahoo.com,5/1/1976,Two or more races,5455 W 56th St,Indianapolis,IN,46254,32.35,Democrat,High School
+181,M,Nicolas,Bradley,nbradley@msn.com,10/26/1968,White,4500 S Main St,Anderson,IN,46013,41.21,Democrat,College
+182,M,Ralph,Lane,rlane@yahoo,12/10/1965,White,802 Fox Hill Dr,Indianapolis,IN,46228,22.35,Republican,High School
+183,M,Eugene,Andrews,eandrews@msn.com,1/7/1974,Black,3495 W 126 St,Carmel,IN,46032,24.35,Republican,College
+184,M,Leon,Ruiz,lruiz@me.com,6/23/1968,White,5249 Hornet Ave,Beech Grove,IN,46107,24.8,Independent,High School
+185,F,Chasity,Harper,charper@optonline.net,11/7/1967,White,101 4th Ave SE,Carmel,IN,46032,37.15,Republican,High School
+186,F,Kellie,Fox,kfox@yahoo.com,5/7/1970,Black,PO Box 27,Paragon,IN,46166,30.27,Democrat,College
+187,M,Andy,Riley,arileysbcglobal.net,4/3/1973,White,5740 McFarland Rd,Indianapolis,IN,46227,27.45,Republican,High School
+188,F,Tracey,Armstrong,tarmstrong@gmail,10/25/1971,Other race,9501 E 36th St,Indianapolis,IN,46236,25.52,Democrat,College
+189,F,Deborah,Carpenter,dcarpenter@yahoo.com,8/6/1967,Other race,9010 E Southport Rd,Indianapolis,IN,46259,33.29,Republican,College
+190,M,Trent,Weaver,tweaver@verizon.net,10/14/1973,Two or more races,4845 Bulldog Way,Brownsburg,IN,46112,26.58,Republican,College
+191,F,Brianne,Greene,bgreene@verizon.net,12/10/1966,Black,PO Box 68,Trafalgar,IN,46181,36.61,Republican,College
+192,F,Joni,Lawrence,jlawrence@me.com,11/21/1967,White,510 E 46th St,Indianapolis,IN,46205,36.59,Independent,College
+193,F,Krystal,Elliott,kelliott@yahoo.com,6/16/1969,White,2001 Ashbourne Rd,Anderson,IN,46011,45.45,Independent,College
+194,M,Kent,Chavez,kchavez@yahoo.com,12/11/1976,White,2865 S SR 13,Lapel,IN,46051,23.91,Republican,College
+195,M,Carlos,Sims,csims@optonline.net,5/3/1976,Other race,3660 E 62nd St,Indianapolis,IN,46220,40.24,Democrat,College
+196,M,Cody,Austin,caustinverizon.net,4/18/1967,White,1331 N Blue Rd,Greenfield,IN,46140,26.51,Republican,High School
+197,M,Colin,Peters,cpeters@optonline.net,10/9/1975,White,9601 E 21st St,Indianapolis,IN,46229,35.07,Democrat,College
+198,F,Debra,Kelley,dkelley@att.net,7/10/1972,Black,7525 E Thompson Rd,Indianapolis,IN,46239,27.97,Democrat,High School
+199,F,Martha,Franklin,mfranklin@att.net,6/21/1967,White,PO Box 910 - 307 W Main St,Morristown,IN,46161,20.18,Republican,High School
+200,F,Paula,Lawson,plawson@gmail.com,7/24/1975,White,10330 E Prospect St,Indianapolis,IN,46239,32.88,Democrat,High School
+201,F,Anita,Fields,afields@live.com,5/22/1974,Other race,1550 N Cumberland Rd,Indianapolis,IN,46229,46.52,Republican,High School
+202,M,Courtney,Gutierrez,cgutierrez@att.net,4/9/1966,Black,1900 E Stop 12 Rd,Indianapolis,IN,46227,24.03,Independent,College
+203,M,Darin,Ryan,dryan@tmobile.net,2/15/1967,White,4311 E 116th St,Carmel,IN,46033,28.5,Republican,College
+204,M,Kelly,Schmidt,kschmidt@gmail.com,4/6/1966,White,595 S Harbour Dr,Noblesville,IN,46062,26.04,Republican,College
+205,M,Nickolas,Carr,ncarr@optonline.net,9/3/1969,White,747 W 161st St,Westfield,IN,46074,20.4,Republican,High School
+206,F,Kathy,Vasquez,kvasquez@gmail,3/25/1972,Indian,7878 E CR 100 N,Avon,IN,46123,30.59,Independent,High School
+207,F,Terri,Castillo,tcastillo@msn.com,4/12/1969,Black,700 E SR 44,Franklin,IN,46131,42.69,Republican,High School
+208,M,Devin,Wheeler,dwheeler@me.com,11/1/1969,White,19400 Tomlinson Rd,Westfield,IN,46074,46.53,Democrat,High School
+209,F,Jody,Chapman,jchapman@optonline.net,3/11/1968,White,1000 Main St,Beech Grove,IN,46107,44.83,Democrat,College
+210,M,Antoine,Oliver,aoliver@att.net,11/25/1975,White,323 E School St,Anderson,IN,46012,36.2,Republican,High School
+211,M,Dewayne,Montgomery,dmontgomery@msn.com,7/24/1965,White,5701 Brill Rd,Indianapolis,IN,46227,41.77,Republican,College
+212,M,Duane,Richards,drichards@me.com,3/3/1968,Other race,3025 Westfield Rd,Noblesville,IN,46062,35.12,Independent,High School
+213,F,Meredith,Williamson,mwilliamson@live.com,5/12/1970,White,8250 Springmill Rd,Indianapolis,IN,46260,29.12,Democrat,College
+214,F,Rachelle,Johnston,rjohnston@sbcglobal.net,12/20/1973,White,1600 Hillcrest Ave,Anderson,IN,46011,44.86,Republican,High School
+215,M,Jarrod,Banks,jbanks@yahoo.com,5/4/1965,White,1780 Sloan Ave,Indianapolis,IN,46203,42.36,Republican,High School
+216,M,Karl,Meyer,kmeyer@yahoo.com,9/20/1972,White,112 E Vineyard St,Anderson,IN,46012,36.59,Republican,High School
+217,F,Brandie,Bishop,bbishop@yahoo.com,3/20/1975,White,550 W 37th St,Anderson,IN,46013,45.26,Independent,High School
+218,F,Colleen,Mccoy,cmccoy@live.com,12/11/1965,White,PO Box 105 6760 N SR 42,Eminence,IN,46125,43.31,Republican,High School
+219,M,Dallas,Howell,dhowell@att.net,11/20/1970,Other race,454 E Stop 11 Rd,Indianapolis,IN,46227,43.98,Republican,High School
+220,M,Darryl,Alvarez,dalvarez@att.net,6/16/1967,White,4352 N Mitthoeffer,Indianapolis,IN,46236,22.33,Independent,High School
+221,M,Eddie,Morrison,emorrison@tmobile.net,5/6/1965,White,7312 W Stonegate Dr,Zionsville,IN,46077,34.16,Democrat,College
+222,F,Christie,Hansen,chansen@verizon.net,1/3/1969,White,1000 S Indian Crk Dr,Trafalgar,IN,46181,44.54,Republican,High School
+223,M,Kerry,Fernandez,kfernandez@me.com,1/12/1971,Black,75 N Belleview Pl,Indianapolis,IN,46222,40.08,Republican,High School
+224,F,Kate,Garza,kgarzagmail.com,2/13/1965,White,6501 Sunnyside Rd,Indianapolis,IN,46236,37.49,Republican,High School
+225,F,Kristie,Harvey,kharvey@msn.com,9/5/1966,Black,11442 Lantern Rd,Fishers,IN,46038,40.58,Democrat,College
+226,F,Bobbie,Little,blittle@verizon,7/26/1969,White,2150 Kessler Blvd W Dr,Indianapolis,IN,46228,28.09,Independent,College
+227,M,Terrance,Burton,tburton@optonline.net,8/22/1965,White,121 Knightstown Rd,Shelbyville,IN,46176,31.26,Republican,High School
+228,M,Tommy,Stanley,tstanley@yahoo.com,11/15/1970,Two or more races,3205 W 25th St,Anderson,IN,46011,45.5,Independent,College
+229,M,Ty,Nguyen,tnguyen@sbcglobal,11/25/1972,White,3575 E 79th St,Indianapolis,IN,46240,44.51,Republican,College
+230,F,Jana,George,jgeorge@me.com,6/25/1970,White,940 N 19th St,Elwood,IN,46036,41.21,Republican,College
+231,F,Kelley,Jacobs,kjacobs@gmail.com,2/9/1972,White,4700 S 975 E,Zionsville,IN,46077,26.37,Republican,High School
+232,M,Clarence,Reid,creid@att.net,4/9/1969,NULL,115 Colescott St,Shelbyville,IN,46176,40.07,Republican,College
+233,F,Virginia,Kim,vkim@att.net,2/7/1970,White,5378 N Helmsburg School Rd,Morgantown,IN,46160,28.78,Democrat,College
+234,M,Franklin,Fuller,ffuller@live.com,7/13/1969,White,2108 E 200 N,Anderson,IN,46012,20.78,Democrat,High School
+235,F,Carol,Lynch,clynch@verizon.net,1/4/1968,White,4610 Madison Ave,Anderson,IN,46013,32.72,Democrat,High School
+236,M,Jayson,Dean,jdean@tmobile.net,1/3/1965,Black,1229 Lincoln St,Anderson,IN,46016,30.33,Independent,College
+237,F,Morgan,Gilbert,mgilbert@yahoo.com,8/15/1967,White,1301 S Lincoln St,Anderson,IN,46016,38.66,Democrat,High School
+238,M,Trenton,Garrett,tgarrett@yahoo,4/20/1970,Asian,25802 SR 19,Arcadia,IN,46030,33.67,Republican,College
+239,F,Shauna,Romero,sromero@tmobile,7/18/1974,White,520 E Main St,Carmel,IN,46032,35.92,Democrat,High School
+240,M,Bryce,Welch,bwelch@optonline.net,10/10/1968,White,13910 E 126th St,Fishers,IN,46037,28.94,Republican,College
+241,F,Carly,Larson,clarson@live.com,6/18/1975,White,13000 Promise Rd,Fishers,IN,46038,38.8,Independent,College
+242,F,Desiree,Frazier,dfrazier@optonline.net,9/24/1976,White,8112 N 200 W,Fortville,IN,46040,20.09,Democrat,High School
+243,F,Elaine,Burke,eburke@yahoo.com,4/19/1966,Black,1850 S 900 W,Lapel,IN,46051,27.33,Republican,College
+244,F,Hope,Hanson,hhanson@optonline.net,4/7/1975,White,510 Essex Dr,Lebanon,IN,46052,21.75,Democrat,College
+245,M,Isaiah,Day,iday@gmail.com,8/9/1970,White,18111 Cumberland Rd,Noblesville,IN,46060,40.78,Democrat,College
+246,F,Jasmine,Mendoza,jmendoza@msn.com,12/9/1976,White,One Arabian Dr,Pendleton,IN,46064,27.74,Republican,College
+247,M,Melvin,Moreno,mmoreno@optonline.net,11/26/1965,White,24185 N Hinesley Rd,Sheridan,IN,46069,45.97,Independent,College
+248,F,Kristine,Bowman,kbowman@sbcglobal.net,1/25/1975,White,18250 N Union St,Westfield,IN,46074,30.51,Republican,College
+249,F,Lydia,Medina,lmedina@optonline.net,1/18/1968,Black,1000 Mulberry St,Zionsville,IN,46077,37.21,Democrat,High School
+250,M,Ricardo,Fowler,rfowler@me.com,6/20/1965,White,5330 Hornet Ave,Beech Grove,IN,46107,45.97,Democrat,High School
+251,M,Rickey,Brewer,rbrewer@msn.com,8/20/1976,Black,1000 S Odell St,Brownsburg,IN,46112,29.98,Democrat,College
+252,F,Ashlee,Hoffman,ahoffman@live.com,2/2/1969,Black,725 A N Green St,Brownsburg,IN,46112,25.6,Republican,High School
+253,F,Lakisha,Carlson,lcarlson@live,11/13/1967,Asian,6565 S CR 200 W,Clayton,IN,46118,41.94,Democrat,High School
+254,M,Bart,Silva,bsilva@att.net,3/14/1975,White,100 Warrior Way,Danville,IN,46122,30.58,Republican,High School
+255,F,Leigh,Pearson,lpearson@yahoo.com,4/19/1972,Black,7575 E CR 150 S,Avon,IN,46123,22.69,Independent,High School
+256,F,Betsy,Holland,bholland@yahoo.com,6/24/1976,White,300 S Keeley St,Edinburgh,IN,46124,27.71,Independent,High School
+257,M,Dean,Douglas,ddouglas@gmail.com,11/6/1967,Black,4774 W 600 N,Fairland,IN,46126,42.95,Democrat,College
+258,F,Tameka,Fleming,tfleming@yahoo.com,11/9/1970,White,2600 Cumberland Dr,Franklin,IN,46131,29.26,Republican,High School
+259,M,Demetrius,Jensen,djensen@gmail.com,2/15/1975,Two or more races,910 E Washington St,Greencastle,IN,46135,35.18,Independent,High School
+260,M,Dominic,Vargas,dvargas@me.com,7/6/1968,White,1780 E US Hwy 40,Greencastle,IN,46135,27.19,Republican,College
+261,M,Don,Byrd,dbyrd@sbcglobal.net,1/19/1971,White,810 N Broadway,Greenfield,IN,46140,28.2,Republican,College
+262,F,Kyla,Davidson,kdavidson@optonline.net,8/15/1976,White,615 W Smith Valley Rd,Greenwood,IN,46142,36.98,Democrat,College
+263,M,Dylan,Hopkins,dhopkins@yahoo.com,4/16/1971,White,2717 S Morgantown Rd,Greenwood,IN,46143,28.03,Democrat,High School
+264,M,Floyd,May,fmay@verizon.net,5/14/1965,White,7883 N SR 39,Lizton,IN,46149,21.77,Democrat,High School
+265,F,Marissa,Terry,mterry@verizon.net,5/22/1968,White,1360 E Gray St,Martinsville,IN,46151,33.29,Democrat,College
+266,M,Ray,Herrera,rherrera@tmobile.net,10/9/1966,Black,205 S Chestnut St,Monrovia,IN,46157,23.67,Democrat,High School
+267,F,Olivia,Wade,owade@sbcglobal.net,4/15/1973,Black,550 N Indiana St,Mooresville,IN,46158,41.93,Republican,College
+268,F,Alisa,Soto,asoto@me.com,5/23/1971,White,PO Box 448,New Palestine,IN,46163,21.53,Republican,High School
+269,F,Caroline,Walters,cwalters@yahoo,2/5/1969,Black,1 Red Pride Dr,Plainfield,IN,46168,38.14,Republican,High School
+270,F,Esther,Curtis,ecurtis@tmobile.net,3/24/1968,White,2003 S Miller St,Shelbyville,IN,46176,37.06,Republican,High School
+271,F,Jeanette,Neal,jneal@verizon,12/5/1972,Other race,803 W Indian Creek Dr,Trafalgar,IN,46181,45.18,Democrat,College
+272,M,Francis,Caldwell,fcaldwell@gmail,2/25/1973,White,1500 E Michigan St,Indianapolis,IN,46201,25.56,Republican,High School
+273,M,Fredrick,Lowe,flowe@tmobile.net,2/20/1969,White,1500 E Michigan St,Indianapolis,IN,46201,23.01,Independent,College
+274,M,Harry,Jennings,hjennings@tmobile.net,3/25/1970,White,4900 Julian Ave,Indianapolis,IN,46201,23.35,Democrat,High School
+275,F,Shana,Barnett,sbarnett@att.net,11/3/1966,White,4900 Julian Ave,Indianapolis,IN,46201,45.64,Republican,High School
+276,M,Jeramy,Graves,jgraves@att.net,2/21/1971,Black,1140 Dr M Luther King Jr St,Indianapolis,IN,46202,38.94,Democrat,College
+277,F,Alice,Jimenez,ajimenez@sbcglobal.net,9/18/1973,White,1840 N Meridian,Indianapolis,IN,46202,39.26,Republican,College
+278,F,Diane,Horton,dhorton@tmobile.net,11/2/1967,White,150 N Alabama St,Indianapolis,IN,46204,24.98,Democrat,High School
+279,M,Leslie,Shelton,lshelton@gmail.com,1/21/1974,Black,40 W 40th St,Indianapolis,IN,46208,24.02,Independent,College
+280,F,Hillary,Barrett,hbarrett@sbcglobal.net,8/24/1973,White,3401 N Meridian,Indianapolis,IN,46208,27.31,Republican,High School
+281,F,Karla,O'brien,ko'brien@sbcglobal.net,10/26/1975,White,1250 N High School Rd,Indianapolis,IN,46214,24.8,Democrat,College
+282,F,Kerri,Castro,kcastro@sbcglobal.net,7/18/1967,Two or more races,1200 N High School Rd,Indianapolis,IN,46214,43.19,Democrat,College
+283,F,Penny,Sutton,psutton@optonline.net,2/23/1966,White,1200 N Girls Sch Rd,Indianapolis,IN,46214,43.53,Republican,High School
+284,M,Tyrone,Gregory,tgregory@yahoo.com,4/19/1970,Black,1150 N Girls School Rd,Indianapolis,IN,46214,42.1,Democrat,College
+285,M,Antwan,Mckinney,amckinney@tmobile.net,12/11/1974,Black,9425 E 59th St,Indianapolis,IN,46216,40.34,Democrat,College
+286,M,Bryant,Lucas,blucas@optonline.net,12/7/1965,White,401 W Meridian School Rd,Indianapolis,IN,46217,40.81,Republican,College
+287,M,Earl,Miles,emiles@me.com,6/13/1967,White,1115 Broad Ripple Ave,Indianapolis,IN,46220,22,Democrat,College
+288,F,Angie,Craig,acraig@att.net,12/3/1976,White,5251 Kentucky Ave,Indianapolis,IN,46221,37.15,Republican,College
+289,M,Fred,Rodriquez,frodriquez@me.com,8/20/1965,Black,5106 S High School Rd,Indianapolis,IN,46221,26.69,Republican,College
+290,M,Glen,Chambers,gchambers@tmobile.net,11/14/1970,White,777 S White River Pkwy W Dr,Indianapolis,IN,46221,32.44,Republican,College
+291,M,Jody,Holt,jholt@att.net,12/16/1969,White,2215 W Washington St,Indianapolis,IN,46222,38.72,Republican,College
+292,F,Ericka,Lambert,elambert@att.net,11/7/1976,Black,2215 W Washington St,Indianapolis,IN,46222,40.98,Republican,High School
+293,M,Landon,Fletcher,lfletcher@verizon.net,11/21/1967,White,3725 N Kiel Ave,Indianapolis,IN,46224,36.58,Democrat,College
+294,F,Jolene,Watts,jwatts@me.com,9/15/1974,Black,5525 W 34th St,Indianapolis,IN,46224,31.83,Republican,College
+295,M,Nathanael,Bates,nbates@att.net,2/4/1971,Black,2405 Madison Ave,Indianapolis,IN,46225,20.85,Independent,College
+296,M,Zachariah,Hale,zhale@tmobile.net,7/6/1970,White,4825 N Arlington Ave,Indianapolis,IN,46226,42.1,Independent,High School
+297,M,Amos,Rhodes,arhodes@sbcglobal.net,11/10/1974,White,7300 E 56th St,Indianapolis,IN,46226,26.61,Republican,College
+298,M,Bradford,Pena,bpena@optonline.net,10/15/1974,White,971 E Banta Rd,Indianapolis,IN,46227,25.91,Independent,High School
+299,M,Damian,Beck,dbeck@live.com,10/17/1975,White,9500 E 16th St,Indianapolis,IN,46229,44.81,Democrat,College
+300,M,Deon,Newman,dnewman@live.com,6/14/1966,White,10101 E 38th St,Indianapolis,IN,46236,42.04,Democrat,High School
+301,M,Devon,Haynes,dhaynes@verizon.net,10/26/1969,White,1801 E 86th St,Indianapolis,IN,46240,46.58,Republican,High School
+302,M,Johnnie,Mcdaniel,jmcdaniel@msn.com,12/5/1967,White,1155 S High School Rd,Indianapolis,IN,46241,21.33,Republican,High School
+303,M,Logan,Mendez,lmendezgmail.com,2/7/1974,White,5248 W Raymond,Indianapolis,IN,46241,40.27,Democrat,High School
+304,F,Amelia,Bush,abush@verizon.net,10/5/1974,White,7802 N Hague Rd,Indianapolis,IN,46256,41.35,Republican,High School
+305,M,Stuart,Vaughn,svaughn@optonline.net,4/21/1976,White,6215 S Franklin Rd,Indianapolis,IN,46259,30.96,Democrat,High School
+306,M,Blair,Parks,bparks@sbcglobal.net,1/24/1973,White,6801 Zionsville Rd,Indianapolis,IN,46268,40.09,Independent,College
+307,F,Candy,Dawson,cdawson@tmobile.net,9/12/1965,White,5401 W 71st St,Indianapolis,IN,46268,33.67,Republican,High School
+308,F,Chandra,Santiago,csantiago@att.net,4/21/1976,White,100 SOUTH WALNUT ST,ATLANTA,IN,46031,27.51,Independent,High School
+309,F,Charlene,Norris,cnorris@live.com,11/11/1973,Other race,102 SOUTH CHURCH ST,FRANKTON,IN,46044,34.12,Independent,High School
+310,M,Bryon,Hardy,bhardy@sbcglobal.net,10/9/1970,White,610 MAIN ST,LAPEL,IN,46051,24.67,Republican,High School
+311,M,Cecil,Love,clove@sbcglobal,1/14/1973,Asian,1013 WEST CHURCH ST,SUMMITVILLE,IN,46070,38.36,Democrat,High School
+312,F,Dena,Steele,dsteele@live.com,10/4/1967,Black,6 EAST MILL ST,BROOKLYN,IN,46111,22.75,Democrat,High School
+313,M,Darius,Curry,dcurry@optonline.net,5/23/1974,Black,401 STATE ST,FRANKLIN,IN,46131,37.03,Republican,College
+314,F,Helen,Powers,hpowers@tmobile.net,4/8/1973,Asian,49 EAST MONROE ST,FRANKLIN,IN,46131,25.09,Democrat,College
+315,F,Jessie,Schultz,jschultz@verizon.net,5/23/1967,White,1664 LIBRARY BLVD,GREENWOOD,IN,46142,28.52,Independent,High School
+316,M,Elliott,Barker,ebarker@optonline.net,3/3/1973,White,145 SOUTH CHESTNUT ST,MONROVIA,IN,46157,39.5,Democrat,College
+317,M,Garry,Guzman,gguzman@yahoo.com,4/24/1968,White,79 WEST WASHINGTON ST,MORGANTOWN,IN,46160,37.7,Republican,High School
+318,M,Graham,Page,gpage@me.com,4/16/1967,White,127 EAST MAIN ST,MORRISTOWN,IN,46161,27.97,Independent,High School
+319,F,Rita,Munoz,rmunoz@me.com,3/2/1973,White,5087 WEST US 52,NEW PALESTINE,IN,46163,40.16,Democrat,College
+320,F,Ryan,Ball,rball@me.com,6/1/1968,White,8451 NINEVEH ROAD,NINEVEH,IN,46164,26.12,Democrat,College
+321,F,Tiana,Keller,tkeller@optonline.net,1/21/1965,White,33 WEST BROADWAY ST,SHELBYVILLE,IN,46176,39.36,Democrat,High School
+322,F,Tiffanie,Chandler,tchandler@verizon.net,1/11/1965,White,424 TOWER ST,TRAFALGAR,IN,46181,42.42,Republican,High School
+323,F,Aubrey,Weber,aweber@msn.com,9/17/1968,White,530 TRACY ROAD STE 250,NEW WHITELAND,IN,46184,44.88,Democrat,College
+324,M,Spencer,Leonard,sleonard@msn,8/12/1975,Other race,2822 EAST WASHINGTON ST,INDIANAPOLIS,IN,46201,45.87,Independent,College
+325,F,Betty,Walsh,bwalsh@verizon.net,10/26/1971,White,1801 NOWLAND AVE,INDIANAPOLIS,IN,46201,21.22,Republican,High School
+326,M,Aric,Lyons,alyons@me.com,2/10/1968,Black,1066 VIRGINIA AVE,INDIANAPOLIS,IN,46203,23.28,Republican,College
+327,F,Cari,Ramsey,cramsey@gmail.com,10/19/1972,White,2502 SHELBY ST,INDIANAPOLIS,IN,46203,27.5,Democrat,High School
+328,M,Chester,Wolfe,cwolfe@msn.com,10/11/1976,White,4180 NORTH COLLEGE AVE,INDIANAPOLIS,IN,46205,33.21,Democrat,College
+329,F,Chrystal,Schneider,cschneider@yahoo.com,4/5/1972,White,2424 DR MARTIN LUTHER KING JR. STRE,INDIANAPOLIS,IN,46208,25.52,Republican,High School
+330,M,Harley,Mullins,hmullins@msn.com,10/1/1973,White,3000 NORTH MERIDIAN ST,INDIANAPOLIS,IN,46208,26.9,Republican,College
+331,F,Elisabeth,Benson,ebenson@sbcglobal.net,9/19/1972,Other race,2450 N MERIDIAN ST,INDIANAPOLIS,IN,46208,34.87,Democrat,High School
+332,F,Elisha,Sharp,esharp@optonline.net,11/8/1966,White,2435 NORTH SHERMAN DRIVE,INDIANAPOLIS,IN,46218,26.33,Independent,High School
+333,M,Kraig,Bowen,kbowen@live.com,1/18/1971,Other race,5420 EAST 38TH ST,INDIANAPOLIS,IN,46218,42.14,Republican,High School
+334,M,Lamar,Daniel,ldaniel@yahoo.com,8/1/1965,White,5625 EAST WASHINGTON ST,INDIANAPOLIS,IN,46219,34.27,Democrat,College
+335,M,Lewis,Barber,lbarber@me,9/4/1968,White,6101 NORTH KEYSTONE AVE,INDIANAPOLIS,IN,46220,37.82,Independent,College
+336,M,Morgan,Cummings,mcummings@optonline.net,4/6/1969,Black,5301 KENTUCKY AVE,INDIANAPOLIS,IN,46221,26.76,Republican,High School
+337,M,Nick,Hines,nhines@msn.com,8/3/1972,White,1216 SOUTH KAPPES ST,INDIANAPOLIS,IN,46221,36.94,Independent,College
+338,F,Leann,Baldwin,lbaldwin@me.com,6/23/1976,Other race,3325 LOWRY ROAD,INDIANAPOLIS,IN,46222,38.26,Republican,High School
+339,F,Patrice,Griffith,pgriffith@msn.com,4/13/1970,Black,2121 WEST MICHIGAN ST,INDIANAPOLIS,IN,46222,30.38,Republican,High School
+340,F,Randi,Valdez,rvaldez@me.com,4/25/1971,White,2630 EAST STOP 11 ROAD,INDIANAPOLIS,IN,46227,46.27,Republican,College
+341,M,Sherman,Hubbard,shubbard@yahoo.com,9/7/1967,Black,9701 EAST 21ST ST,INDIANAPOLIS,IN,46229,45.93,Democrat,College
+342,F,Trina,Salazar,tsalazar@sbcglobal.net,10/13/1975,Black,198 SOUTH GIRLS SCHOOL ROAD,INDIANAPOLIS,IN,46231,34.71,Independent,High School
+343,F,Wanda,Reeves,wreeves@verizon,10/5/1974,White,5550 SOUTH FRANKLIN ROAD,INDIANAPOLIS,IN,46239,39.16,Democrat,College
+344,F,Yolanda,Warner,ywarner@optonline.net,11/5/1975,Black,8625 NORTH GUILFORD AVE,INDIANAPOLIS,IN,46240,24.26,Republican,High School
+345,F,Alana,Stevenson,astevenson@tmobile.net,6/26/1970,Two or more races,7898 NORTH HAGUE ROAD,INDIANAPOLIS,IN,46256,45.62,Independent,High School
+346,F,Annette,Burgess,aburgess@yahoo.com,12/22/1965,Black,6525 ZIONSVILLE ROAD,INDIANAPOLIS,IN,46268,23.54,Republican,College
+347,F,Darcy,Santos,dsantos@verizon.net,2/13/1966,Two or more races,9094 E 131st St,Fishers,IN,46038,34.85,Independent,High School
+348,M,Curt,Tate,ctate@tmobile,6/8/1967,Black,1235 Central Park Dr E,Carmel,IN,46032,22.4,Democrat,College
+349,F,Janice,Cross,jcross@verizon.net,1/1/1966,White,1107 N State St,Greenfield,IN,46140,31.6,Republican,College
+350,M,Donte,Garner,dgarner@tmobile.net,2/3/1972,White,100 Surina Way,Greenwood,IN,46143,33.25,Democrat,College
+351,M,Edwin,Mann,emann@me.com,6/6/1965,White,407 N Bluff Rd,Greenwood,IN,46142,29.34,Republican,High School
+352,M,Everett,Mack,emack@verizon.net,3/3/1966,White,2578 Donica Road,Greenwood,IN,46143,25.29,Independent,High School
+353,M,Herman,Moss,hmoss@yahoo.com,9/2/1966,White,325 Market Street,Greenwood,IN,46142,41.91,Republican,College
+354,F,Sasha,Thornton,sthornton@att.net,11/17/1970,Two or more races,315 S. Harrison Street,ALEXANDRIA,IN,46001,29.34,Republican,College
+355,F,Serena,Dennis,sdennis@yahoo,6/23/1967,Black,1611 Chase St,Anderson,IN,46016,38.38,Republican,College
+356,M,Josh,Mcgee,jmcgee@me.com,7/7/1965,White,1547 Ohio Ave,Anderson,IN,46016,41.98,Democrat,College
+357,F,Tera,Farmer,tfarmer@me.com,9/23/1974,Two or more races,1615 Meridian Street,ANDERSON,IN,46016,41.98,Republican,High School
+358,M,Kurtis,Delgado,kdelgado@sbcglobal.net,12/26/1973,Two or more races,6701 Hoover Road,Indianapolis,IN,46260,22.35,Republican,High School
+359,F,Cathy,Aguilar,caguilar@gmail.com,3/21/1966,White,2410 Station St,Indianapolis,IN,46218,42.61,Independent,High School
+360,M,Lyle,Vega,lvega@sbcglobal,10/18/1968,Black,502 North Tremont,Indianapolis,IN,46222,28.66,Independent,High School
+361,F,Claire,Glover,cglover@me.com,9/9/1967,Black,502 N  Tremont Ave,INDIANAPOLIS,IN,46222,39.84,Republican,High School
+362,M,Rusty,Manning,rmanning@yahoo.com,11/18/1976,Other race,8902 E  38th St,INDIANAPOLIS,IN,46226,23.83,Republican,High School
+363,F,Darlene,Cohen,dcohen@msn.com,1/6/1971,White,1310 S Meridian St,Indianapolis,IN,46225,29.3,Democrat,College
+364,F,Gloria,Harmon,gharmon@yahoo.com,7/6/1974,Black,1310 S  Meridian St,INDIANAPOLIS,IN,46225,23.03,Democrat,College
+365,F,Ida,Rodgers,irodgers@msn.com,7/19/1967,White,2605 E  25th St,INDIANAPOLIS,IN,46218,20.51,Republican,College
+366,M,Collin,Robbins,crobbins@msn.com,9/19/1976,White,2605 E. 25th St,Indianapolis,IN,46218,28.15,Republican,High School
+367,F,Karrie,Newton,knewton@tmobile.net,10/20/1973,White,2420 E Riverside Dr,Indianapolis,IN,46208,45.42,Democrat,College
+368,M,Deandre,Todd,dtodd@gmail.com,12/23/1975,White,2990 W 71st St,Indianapolis,IN,46268,31.37,Republican,College
+369,F,Lena,Blair,lblairme.com,11/3/1973,White,2424 Doctor M.L.K. Jr St,Indianapolis,IN,46208,33.28,Independent,High School
+370,F,Marla,Higgins,mhiggins@yahoo.com,3/14/1965,Black,2424 Dr  Martin Luther King Jr  St,INDIANAPOLIS,IN,46208,27.14,Republican,High School
+371,F,Qiana,Ingram,qingram@msn.com,6/24/1969,White,1637 Prospect St,Indianapolis,IN,46203,38.26,Independent,College
+372,M,Israel,Reese,ireese@live.com,8/15/1969,White,5603 E  38th St,INDIANAPOLIS,IN,46218,24.61,Republican,College
+373,F,Alyson,Cannon,acannonsbcglobal.net,11/12/1965,Black,5603 E 38th St,Indianapolis,IN,46218,23.68,Democrat,High School
+374,F,Bambi,Strickland,bstrickland@me.com,5/3/1971,Black,3935 W Mooresville Rd,Indianapolis,IN,46221,30.61,Democrat,College
+375,F,Beverly,Townsend,btownsend@msn.com,1/22/1970,Two or more races,2440 W  Ohio St,INDIANAPOLIS,IN,46222,42.83,Republican,College
+376,M,Jarred,Potter,jpotter@sbcglobal.net,4/5/1969,White,2440 W Ohio St,Indianapolis,IN,46222,34.8,Democrat,College
+377,F,Christi,Goodwin,cgoodwin@msn.com,3/22/1968,Black,1633 N Capitol Ave #500,Indianapolis,IN,46202,38.1,Republican,High School
+378,M,Lamont,Walton,lwalton@optonline.net,6/13/1975,White,5245 Hornet Ave,Beechgrove,IN,46107,31.55,Republican,College
+379,M,Leroy,Rowe,lrowe@yahoo.com,6/9/1967,Black,708 E Michigan St,Indianapolis,IN,46202,22.07,Republican,High School
+380,M,Nathanial,Hampton,nhampton@sbcglobal.net,1/15/1970,White,708 E  Michigan St,INDIANAPOLIS,IN,46202,21.53,Independent,College
+381,F,Janel,Ortega,jortegalive.com,3/19/1969,White,777 Indiana Avenue,INDIANAPOLIS,IN,46202,40.33,Republican,High School
+382,M,Oliver,Patton,opatton@optonline,4/25/1965,White,2236 E  10th St,INDIANAPOLIS,IN,46201,22.53,Democrat,High School
+383,F,Kami,Swanson,kswanson@tmobile.net,4/24/1976,White,2236 E 10th St,Indianapolis,IN,46201,29.03,Republican,College
+384,M,Solomon,Joseph,sjoseph@att.net,12/10/1974,Black,8902 E 38th St,Indianapolis,IN,46226,35.13,Democrat,High School
+385,F,Maranda,Francis,mfrancis@optonline.net,12/25/1975,White,1008 W 64th St,Indianapolis,IN,46260,30.7,Republican,College
+386,F,Maureen,Goodman,mgoodman@att.net,2/17/1970,White,40 W  40th St,INDIANAPOLIS,IN,46208,33.75,Independent,High School
+387,M,Alejandro,Maldonado,amaldonado@me.com,9/11/1971,Black,40 W 40th St,Indianapolis,IN,46208,44.03,Republican,College
+388,F,Misti,Yates,myates@optonline.net,8/22/1965,White,1920 W  Morris St,INDIANAPOLIS,IN,46221,23.18,Democrat,College
+389,F,Norma,Becker,nbecker@gmail.com,12/7/1973,White,1920 W Morris St,Indianapolis,IN,46221,22.04,Republican,College
+390,F,Priscilla,Erickson,perickson@yahoo.com,2/6/1976,Black,4836 Mt Vernon Dr,Indianapolis,IN,46227,33,Democrat,College
+391,F,Rhiannon,Hodges,rhodges@gmail,7/26/1973,Black,4107 E Washington St,Indianapolis,IN,46201,27.2,Democrat,High School
+392,F,Tami,Rios,trios@sbcglobal.net,5/9/1967,White,5317 E 16th St,Indianapolis,IN,46218,44.44,Democrat,High School
+393,M,Francisco,Conner,fconner@verizon.net,7/6/1968,Black,8320 Madison Ave,Indianapolis,IN,46227,35.56,Republican,College
+394,M,Harrison,Adkins,hadkins@optonline.net,8/16/1971,Black,8931 East 30th Street,Indianapolis,IN,46234,34.66,Democrat,High School
+395,F,Camille,Webster,cwebstertmobile.net,2/5/1975,Two or more races,3100 N  Meridian St,INDIANAPOLIS,IN,46208,29.92,Republican,High School
+396,M,Jarod,Norman,jnorman@sbcglobal.net,10/17/1974,White,530 N Holmes Ave,Indianapolis,IN,46222,24.92,Republican,High School
+397,M,Javier,Malone,jmalone@yahoo.com,7/20/1974,Black,3208 E Michigan St,Indianapolis,IN,46201,39.52,Republican,College
+398,M,Jed,Hammond,jhammond@optonline.net,9/14/1966,White,4444 W 56th St,Indianapolis,IN,46254,22.98,Republican,High School
+399,F,Corinne,Flowers,cflowers@att.net,3/9/1972,Black,1640 IN-44,Shelbyville,IN,46176,32.28,Independent,High School
+400,F,Gwendolyn,Cobb,gcobb@optonline.net,10/23/1969,White,1200 W McKay Rd,Shelbyville,IN,46176,35.04,Democrat,College
+401,M,Johnathon,Moody,jmoody@msn,3/12/1965,White,1078 Third Avenue  SW,CARMEL,IN,46032,46.73,Democrat,College
+402,F,Jama,Quinn,jquinn@att.net,3/21/1974,White,1201 Sycamore Lane,DANVILLE,IN,46122,20.26,Democrat,College
+403,M,Lorenzo,Blake,lblake@verizon.net,10/25/1969,White,1870 Fields Blvd,GREENFIELD,IN,46140,41.47,Republican,College
+404,M,Mike,Maxwell,mmaxwell@att.net,1/26/1971,White,3802 Rodeo Dr,Edinburgh,IN,46164,30.77,Independent,High School
+405,F,Kirsten,Pope,kpope@msn.com,10/8/1971,White,515 CrownPointe Dr,LEBANON,IN,46052,41.87,Republican,High School

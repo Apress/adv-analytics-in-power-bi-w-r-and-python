@@ -1,0 +1,3 @@
+Score regular model in SQL Server Machine Learning Services using R and Python. Talk about benefits of how RevoScaleR models.
+
+Score model using Azure ML. May only need one example with this.

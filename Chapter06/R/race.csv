@@ -1,0 +1,11 @@
+name,label,concept
+B02001_001,Estimate!!Total,RACE
+B02001_002,Estimate!!Total!!White alone,RACE
+B02001_003,Estimate!!Total!!Black or African American alone,RACE
+B02001_004,Estimate!!Total!!American Indian and Alaska Native alone,RACE
+B02001_005,Estimate!!Total!!Asian alone,RACE
+B02001_006,Estimate!!Total!!Native Hawaiian and Other Pacific Islander alone,RACE
+B02001_007,Estimate!!Total!!Some other race alone,RACE
+B02001_008,Estimate!!Total!!Two or more races,RACE
+B02001_009,Estimate!!Total!!Two or more races!!Two races including Some other race,RACE
+B02001_010,Estimate!!Total!!Two or more races!!Two races excluding Some other race and three or more races,RACE
